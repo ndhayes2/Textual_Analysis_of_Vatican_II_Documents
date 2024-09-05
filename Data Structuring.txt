@@ -1,0 +1,4 @@
+For Bible refs, use:
+ID,DocName,Gen,Ex,Lev, etc. with the DocName being the Latin title, and the amount of references to each book being under the abbreviations
+
+In addition, add columns for each keyword from the keywords.txt file
